@@ -1,5 +1,7 @@
 # Endless Runner Sample game
 
+https://affrae.github.io/gametune-example-game-pages
+
 ## Cloning note
 
 **This repository use git Large File Support. To clone it successfully, you will need to install git lfs** :
