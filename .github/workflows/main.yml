@@ -1,5 +1,5 @@
 name: Base WebGL build using GameCI and Unity
- on:
+on:
   workflow_dispatch:
   pull_request:
   push: 
